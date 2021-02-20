@@ -7,5 +7,6 @@ package com.bjpowernode.domain;
  * description:
  **/
 public class Person {
-
+    private String id;
+    private String name;
 }
